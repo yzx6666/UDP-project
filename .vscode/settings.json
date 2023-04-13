@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "server_conf.h": "c",
+        "mytbf.h": "c",
+        "medialib.h": "c"
+    }
+}
